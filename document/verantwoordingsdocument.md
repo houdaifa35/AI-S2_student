@@ -4,10 +4,10 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Bijeenkomst' is peilmoment 1, peilmoment 2 of beslismoment.)
 
-* **Studentnummer**:
-* **Naam**:
+* **Studentnummer**: 1885671
+* **Naam**: Hodayfa Toutouh
 * **Bijeenkomst**:
-* **Datum**:
+* **Datum**: 9-02-26
 
 
 ## Inleiding
@@ -38,10 +38,6 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 [comment]: # (Portfolio-items peilmoment 1. Het eerste voorbeeld is een voorgedefinieerd portfolio-item dat op niveau is voltooid. Het tweede voorbeeld is een voorgedefinieerd portfolio-item dat onder niveau is. NB. Verwijder deze voorbeelden bij inlevering van het verantwoordingsdocument.)
 
-* [L&W-III: Boommethode](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-
-* [HW-I: Turing complete t/m level *Little Box*](https://canvas.hu.nl/courses/44855/assignments/327461/submissions/367387)
-    * Dit item is onder niveau, maar het draagt desondanks bij aan de leeruitkomst, want ik heb na de deadline in een individueel gesprek met docent Peter aangetoond dat ik de logica van de oplossing kan uitleggen.
 
 ---
 
