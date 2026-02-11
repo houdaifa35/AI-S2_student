@@ -73,7 +73,7 @@ Instructies voor het invullen van dit document zitten in opmerkingen, die alleen
 
 > Kennis & vaardigheden: beperkte bronnen, functioneren van een computer, computerprocessen, geheugenmanagement
 
-[HW-I: Turing complete t/m level *not gate*](https://canvas.hu.nl/courses/50276/assignments/395884/submissions/361165)
+[Mijn eerste portfolio-item](https://canvas.hu.nl/courses/50276/assignments/395884/submissions/361165)
 
 ---
 
